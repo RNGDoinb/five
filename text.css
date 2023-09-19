@@ -1,0 +1,30 @@
+*{
+    background: lightpink;
+    text-align: center;
+    display: inline;
+    margin: 400px 0 0 0;
+    
+}
+
+.DHL li{
+    list-style-type: none;
+    font-size: 30px;
+    margin-right: 100px;
+    border: 5px;
+    padding: 5px;
+    background: chocolate;
+}
+
+.DHL a{
+    text-decoration: none;
+}
+
+.DHL li:hover{
+    font-size: 250%;
+    background-color: crimson;
+}
+
+
+
+
+ 
